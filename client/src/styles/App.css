@@ -1,0 +1,10 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App > div:not(.navbar) {
+  flex: 1;
+  padding-top: 60px; /* Account for fixed navbar */
+}
