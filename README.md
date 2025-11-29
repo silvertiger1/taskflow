@@ -223,4 +223,4 @@ For support, email andrewmeneotubu@gmail.com
 
 ---
 
-Built with ❤️ for the loveholidays L2 Software Engineer position
+
