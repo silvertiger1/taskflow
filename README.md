@@ -211,7 +211,7 @@ MIT License
 **Andrew Mene-Otubu**
 - Full Stack Developer
 - MSc Computer Science with AI Student (University of York)
-- GitHub: [your-github-username]
+- GitHub: [silvertiger1]
 
 ## 🤝 Contributing
 
@@ -219,7 +219,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📞 Support
 
-For support, email andygotnew@gmail.com
+For support, email andrewmeneotubu@gmail.com
 
 ---
 
